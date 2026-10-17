@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
+*.xlsx
+*.csv
+
+# Model checkpoints and generated outputs
+checkpoints/
+best_models/
+predictions/
+nlp_final_outputs/
